@@ -1,4 +1,2 @@
 # MA251
-Lol, why am I doing this (> o &lt;)
-
-* List like structures implemented with linked list
+* Code related to the Data Structures course I took in my third semester
